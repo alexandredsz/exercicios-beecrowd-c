@@ -1,5 +1,5 @@
 # Exercicios do beecrowd resolvidos 💻 **C**
-### Repositório com exercícios do URI que resolvi em C no segundo semestre do curso de Ciência da Computação.
+### Repositório com exercícios do beecrowd (antigo URI) que resolvi em C no segundo semestre do curso de Ciência da Computação.
 
 ###### Essa lista contém os seguintes exercícios:
 - 1006
